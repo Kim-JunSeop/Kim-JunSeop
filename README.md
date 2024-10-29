@@ -1,16 +1,3 @@
-## **::** Activity
-
-| 설명 | 기수 | 활동기간 | 진행 | 포지션 | 관련링크 |
-| --- | --- | --- | --- | --- | --- |
-| 삼성드림클래스 | - | 2023.08 ~2024.1 | 종료 | 멘토 | [삼성드림클래스 활동 기록](https://velog.io/@wnstjq/%EC%82%BC%EC%84%B1%EB%93%9C%EB%A6%BC%ED%81%B4%EB%9E%98%EC%8A%A4-%ED%9A%8C%EA%B3%A0%EB%A1%9D) |
-| 국민은행 디지털 서포터즈 | - | 2023.09 ~2023.12 | 종료 | 서포터즈 | [국디서 활동 회고](https://velog.io/@wnstjq/%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89-%EB%94%94%EC%A7%80%ED%84%B8-%EC%84%9C%ED%8F%AC%ED%84%B0%EC%A6%88-%ED%9A%8C%EA%B3%A0%EB%A1%9D-5ygnss96) |
-| It's your life - 멀티캠퍼스 | 6기 | 2024.05 ~2024.10 | 종료 | 백엔드 개발자 | [It's your life 활동 기록](https://github.com/PgmJun/woowa-history) |
-
-## **::** Competition
-
-| 단체명  | 활동기간 | 수상 |   
-| ---   | --- | ---  |
-| 2023 벤처스타트업 아카데미 sw경진대회 | 2023.12 | 우수상  |
 
 
 <div align="center">
@@ -67,3 +54,16 @@
   </a>
 
 </div>
+## **::** Activity
+
+| 설명 | 기수 | 활동기간 | 진행 | 포지션 | 관련링크 |
+| --- | --- | --- | --- | --- | --- |
+| 삼성드림클래스 | - | 2023.08 ~2024.1 | 종료 | 멘토 | [삼성드림클래스 활동 기록](https://velog.io/@wnstjq/%EC%82%BC%EC%84%B1%EB%93%9C%EB%A6%BC%ED%81%B4%EB%9E%98%EC%8A%A4-%ED%9A%8C%EA%B3%A0%EB%A1%9D) |
+| 국민은행 디지털 서포터즈 | - | 2023.09 ~2023.12 | 종료 | 서포터즈 | [국디서 활동 회고](https://velog.io/@wnstjq/%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89-%EB%94%94%EC%A7%80%ED%84%B8-%EC%84%9C%ED%8F%AC%ED%84%B0%EC%A6%88-%ED%9A%8C%EA%B3%A0%EB%A1%9D-5ygnss96) |
+| It's your life - 멀티캠퍼스 | 6기 | 2024.05 ~2024.10 | 종료 | 백엔드 개발자 | [It's your life 활동 기록](https://github.com/PgmJun/woowa-history) |
+
+## **::** Competition
+
+| 단체명  | 활동기간 | 수상 |   
+| ---   | --- | ---  |
+| 2023 벤처스타트업 아카데미 sw경진대회 | 2023.12 | 우수상  |
